@@ -16,13 +16,13 @@ public class MainActivity extends Activity {
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
-<<<<<<< HEAD
+
 		
 		//test bingo
-=======
+
 		// bingo test
 		//
->>>>>>> c6729619e930da2a8bc89323842710689aabe391
+
 		return true;
 		
 		
